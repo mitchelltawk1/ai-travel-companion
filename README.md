@@ -1,6 +1,6 @@
 # AI Travel Companion 
 
-## 📖 Project Description  
+## Project Description  
 
 Travelers often face challenges when visiting unfamiliar destinations such as:
 - Language Barriers
