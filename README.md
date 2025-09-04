@@ -43,7 +43,10 @@ The AI-Powered Travel Companion integrates translation, landmark recognition, sa
 1. **Phase 1 – Initial Meeting with Mentor**  
    - First meeting with Mentor, Maath Alani, on Wednesday September 3, 2025.
    - Understand the mentor/client needs
-2.  **Phase 2 - Sprint 1**
-  
+2. **Phase 2 - Sprint 1**
+   - Design & Develop (Sep 4-8): Brainstorm user stories, assign tickets, start implementation.
+   - Develop & Test (Sep 9-15): Code features, reviews.
+   - Test & Deploy (Sep 16-22): Testing, prototype deploy, progress tracking.
+   - Retrospective (Sep 10 & 20): Submit Ticket 3-S1 by Sep 26.
 
 ---  
